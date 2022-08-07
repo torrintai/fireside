@@ -10,19 +10,7 @@ import Channel from './components/Channel';
 import Loader from './components/Loader';
 
 firebase.initializeApp({
-  apiKey: "AIzaSyBVTpHZj9bCOPvVZddiLp_wt6_S62VOHNc",
-
-    authDomain: "hvchat-93771.firebaseapp.com",
-
-    projectId: "hvchat-93771",
-
-    storageBucket: "hvchat-93771.appspot.com",
-
-    messagingSenderId: "770246817813",
-
-    appId: "1:770246817813:web:e8e263ff4aacd2190b761c",
-
-    measurementId: "G-KDZDQ2JE25"
+  
 });
 
 const MoonIcon = props => (
